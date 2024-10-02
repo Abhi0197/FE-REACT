@@ -1,0 +1,36 @@
+/* src/Layout.css */
+
+/* Layout header styles */
+.layout-header {
+  background-color: #20232a;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.layout-header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+/* Layout content styles */
+.layout-content {
+  padding: 2rem;
+  min-height: 70vh;
+  background-color: #f9f9f9;
+  text-align: left;
+}
+
+/* Layout footer styles */
+.layout-footer {
+  background-color: #20232a;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.layout-footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
